@@ -1,0 +1,19 @@
+*{margin:0%}
+.logo{
+    width: 10%;
+}
+
+.nome{
+    display: flex;
+    justify-content: space-between;
+}
+
+.espaço{
+    padding: 2%;
+}
+
+.div {
+    display: flex;
+    justify-content: space-between;
+    padding: 1%;
+}

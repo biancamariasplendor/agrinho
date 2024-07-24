@@ -1,0 +1,39 @@
+*{margin:0%}
+.logo{
+    width: 10%;
+}
+
+.nome{
+    display: flex;
+    justify-content: space-between;
+}
+
+.espaço{
+    padding: 2%;
+}
+
+.perfumes{
+    display: flex;
+    justify-content: space-around;
+    padding: 1%;
+    padding-top: 10%;
+}
+
+.dior{
+    padding-top: 10%;
+}
+
+.paccorabanne{
+    padding-top: 20%;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+.roda {
+    background-color: rgb(255, 255, 255);
+   color: rgb(0, 0, 0);
+   padding-top: 30%;
+}
